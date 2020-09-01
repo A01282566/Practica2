@@ -1,0 +1,897 @@
+2753987508715
+discret
+BUZ3-5
+
+
+0
+2
+2
+discret
+C1
+Condensateur e = 1 pas
+C
+0
+2
+2
+discret
+C1-1
+Condensateur e = 1 ou 2 pas
+C
+0
+3
+2
+discret
+C1.5V8H
+
+
+0
+2
+2
+discret
+C1.5V8V
+
+
+0
+2
+2
+discret
+C1V5
+Condensateur e = 1 pas
+C
+0
+2
+2
+discret
+C1V5H
+Condensateur e = 1 pas
+C
+0
+2
+2
+discret
+C1V7
+
+
+0
+2
+2
+discret
+C1V7H
+
+
+0
+2
+2
+discret
+C1V8
+
+
+0
+2
+2
+discret
+C2
+Condensateur = 2 pas
+C
+0
+2
+2
+discret
+C2V8
+Condensateur polarise
+CP
+0
+2
+2
+discret
+C2V10
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP4
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP5
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP6
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP8
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP10
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP12
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP14
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP16
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP18
+Condensateur polarise
+CP
+0
+2
+2
+discret
+CP20
+Condenstateur polarise
+CP
+0
+2
+2
+discret
+CP36V
+Condensateur polarise vertical
+CP
+0
+2
+2
+discret
+CPR10X16
+Condensateur polarise couche
+CP
+0
+2
+2
+discret
+CR1220
+
+
+0
+5
+2
+discret
+CR2032H
+
+
+0
+2
+2
+discret
+CR2032V
+
+
+0
+3
+2
+discret
+CV3-30PF
+Condensateur ajustable miniature
+C DEV
+0
+2
+2
+discret
+CVAR3X2
+Condensateur ajustable
+C DEV
+0
+3
+3
+discret
+D3
+Diode 3 pas
+DIODE DEV
+0
+2
+2
+discret
+D4
+Diode 4 pas
+DIODE DEV
+0
+2
+2
+discret
+D5
+Diode 5 pas
+DIODE DEV
+0
+2
+2
+discret
+D6
+Diode 6 pas
+DIODE
+0
+2
+2
+discret
+D6.5
+
+
+0
+2
+2
+discret
+DO-35
+Diode 3 pas
+DIODE DEV
+0
+2
+2
+discret
+DO-41
+Diode 3 pas
+DIODE DEV
+0
+2
+2
+discret
+EMI_FILTER
+
+
+0
+3
+3
+discret
+FUSE5-20
+Support fusible 5 x 20
+DEV
+0
+4
+2
+discret
+HC-18UH
+Quartz boitier HC-18 horizontal
+QUARTZ DEV
+0
+2
+2
+discret
+HC-18UV
+Quartz boitier HC-18U vertical
+QUARTZ DEV
+0
+2
+2
+discret
+HC-33UH
+Quartz boitier HC-33U Horizontal
+QUARTZ DEV
+0
+2
+2
+discret
+HC-33UV
+Quartz boitier HC-33U Vertical
+QUARTZ DEV
+0
+2
+2
+discret
+HC-49V
+Quartz boitier HC-49 Vertical
+QUARTZ DEV
+0
+2
+2
+discret
+KSA
+Bouton poussoir KSA
+SWITCH DEV
+0
+5
+5
+discret
+LCD4
+Afficheur LCD 4 digits
+LCD
+0
+40
+40
+discret
+LEDV
+Led verticale diam 6mm
+LED DEV
+0
+2
+2
+discret
+LM78LXX
+Regulateur TO92 serie LM78Lxx
+TR TO92
+0
+3
+3
+discret
+LM78XX
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+4
+4
+discret
+LM78XX-TO92
+7805
+TR TO92
+0
+3
+3
+discret
+LM78XXV
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+3
+3
+discret
+LM79LXX
+Regulateur TO92 serie LM79Lxx
+TR TO92
+0
+3
+3
+discret
+LM79XX
+Regulateur TO220 serie LM79xx
+TR TO220
+0
+4
+4
+discret
+LM2931
+Regulateur TO92 type lm2931
+TR TO92
+0
+3
+3
+discret
+LM16255
+Afficher LCD LM16255 2 lignes de 16 car.
+LCD
+0
+18
+15
+discret
+MICROSWITCH_SPST
+Connecteur 3 pins
+CONN DEV
+0
+3
+3
+discret
+MICROSWITCH_SPST_H
+Connecteur 3 pins
+CONN DEV
+0
+3
+3
+discret
+MIRE
+
+
+0
+5
+0
+discret
+OSC_DIP8
+Oscillateur - taille DIP8
+
+0
+4
+4
+discret
+PUSH_BUTT_SHAPE1
+
+
+0
+4
+4
+discret
+QMONTRE
+
+
+0
+2
+2
+discret
+R1
+Resistance verticale
+R
+0
+2
+2
+discret
+R3
+Resitance 3 pas
+R
+0
+2
+2
+discret
+R3-5
+
+
+0
+2
+2
+discret
+R3-LARGE_PADS
+Resitance 3 pas
+R
+0
+2
+2
+discret
+R4
+Resitance 4 pas
+R
+0
+2
+2
+discret
+R4-5
+
+
+0
+2
+2
+discret
+R4-LARGE_PADS
+Resitance 4 pas
+R
+0
+2
+2
+discret
+R5
+Resistance 5 pas
+R
+0
+2
+2
+discret
+R6
+Resistance 6 pas
+R
+0
+2
+2
+discret
+R7
+Resitance 7 pas
+R
+0
+2
+2
+discret
+RV2
+Resistance variable / potentiometre
+R
+0
+3
+3
+discret
+RV2X4
+Resistance variable / Potentiometre
+R
+0
+3
+3
+discret
+SUBCLICK
+Connecteur Subclick
+CONN DEV
+0
+5
+2
+discret
+SUPER_CAP
+
+
+0
+2
+2
+discret
+SWDIP4
+Switch Dil 4 elements
+SWITCH DEV
+0
+8
+8
+discret
+SWDIP8
+Switch Dil 8 elements
+SWITCH DEV
+0
+16
+16
+discret
+SW_PUSH
+Bouton poussoir
+SWITCH DEV
+0
+2
+2
+discret
+SW_PUSH-12mm
+
+
+0
+4
+2
+discret
+SW_PUSH_SMALL
+
+
+0
+4
+2
+discret
+SW_SPDT
+Switch inverseur
+SWITCH DEV
+0
+5
+5
+discret
+TEST_POINT_2PADS
+Connecteurs 2 pins
+CONN DEV
+0
+2
+2
+discret
+TO3
+Transistor TO3
+TR TO3
+0
+4
+3
+discret
+TO18CBE
+Transistor TO18
+TO18
+0
+3
+3
+discret
+TO18EBC
+Transistor TO18
+TO18
+0
+3
+3
+discret
+TO18GSD
+Transistor TO18
+TO18
+0
+3
+3
+discret
+TO39EBC
+Transistor TO38
+TO38
+0
+3
+3
+discret
+TO92
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92-123
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92-CBE
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92-EBC
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92-INVERT
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92DGS
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92GSD
+Transistor TO92 brochage type BC237
+TR TO92
+0
+3
+3
+discret
+TO92H
+
+
+0
+3
+3
+discret
+TO92PN
+
+
+0
+3
+3
+discret
+TO92_INVERT_H
+
+
+0
+3
+3
+discret
+TO220
+Transistor TO 220
+TR TO220 DEV
+0
+4
+4
+discret
+TO220GDS
+Transistor VMOS Irf530, TO220
+TR TO220 DEV
+0
+4
+4
+discret
+TO220_VERT
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+3
+3
+discret
+VP0808
+Transistor TO92 brochage type VP0808
+TR TO92
+0
+3
+3
+discret
+microswitch_Nikkai
+Switch Nikkai ref G12JPC
+SWITCH DEV
+0
+6
+6
+discret
+r_pack8
+8 R pack
+R
+0
+9
+9
+discret
+r_pack9
+Connecteur 10 pins
+CONN DEV
+0
+10
+10
+discret
+swdip3
+Switch Dil 3 elements
+SWITCH DEV
+0
+6
+6
+user
+BARREL_JACK_MOD
+DC Barrel Jack
+Power Jack
+0
+3
+3
+user
+Capacitor
+Condensateur e = 1 pas
+C
+0
+2
+2
+user
+Capacitor_elec_8x13mm
+Capacitor, pol, cyl 8x13mm
+
+0
+2
+2
+user
+Capacitor_elect
+Capacitor, pol, cyl 5x11mm
+
+0
+2
+2
+user
+Conector_F09HP
+HARTING SUB-D
+HARTING SUB-D
+0
+11
+11
+user
+Crystal16MHz
+
+
+0
+2
+2
+user
+DTS-6
+
+
+0
+4
+4
+user
+Diode
+Diode 4 pas
+DIODE DEV
+0
+2
+2
+user
+LM7805
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+3
+3
+user
+Led
+Led verticale diam 6mm
+LED DEV
+0
+2
+2
+user
+MCP9700A
+TO-92 PADS IN LINE
+TO-92 PADS IN LINE
+0
+3
+3
+user
+Maxim232
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+16
+16
+user
+PIC18F45K50
+DUAL IN LINE
+DUAL IN LINE
+0
+40
+40
+user
+Resistor
+Resitance 3 pas
+R
+0
+2
+2
+user
+Resistor_large
+
+
+0
+2
+2
+user
+USB_B_MOD
+
+USB
+0
+6
+6
+user
+pinhead-1X02
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+3
+2
+user
+pinhead-1X03
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+4
+3
+user
+pinhead-1X06
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+7
+6
+user
+pinhead-1X08
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+9
+8
+user
+pinhead-1X11
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+12
+11
+user
+pinhead-1X14
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+15
+14
+user
+pinhead-1X20
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
+0
+21
+20
