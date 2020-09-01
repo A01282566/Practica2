@@ -97,4 +97,5 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In conclusion it can be said that with KidCad not only we can draw the schematic but also do the PCB layout of it. One problem that I had was that I couldn't draw the green connection lines at fisrt, but after I told my professor about it, we resolved it during tutoring. Also, one thing very difficult for me was to understand the white webs that are supposed to guide the conecctions, but later I realized that it was because I needed to rotate certain elements in order to see the lines clearer, as they were very confusing.
+So, with this practice I discovered that those web lines are very helpful, so you don't have to be looking at the schematic all the time. And, I learned how to draw the copper lines to delimitate the area of the PCB.
